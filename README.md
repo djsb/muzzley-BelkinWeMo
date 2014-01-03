@@ -2,6 +2,8 @@
 
 This is a demo using Muzzley - http://www.muzzley.com - to interface with a Belkin WeMo switch using wemoNode framework;
 
+Video: http://youtu.be/8wsVeSUaeek
+
 ### Purpose
 
 This demo:
