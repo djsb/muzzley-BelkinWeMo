@@ -25,7 +25,7 @@ This demo was developed to support:
 
 Clone this demo from this git repo
 
-  git clone https://github.com/djsb/muzzley-BelkinWeMo.git
+  <pre><code>git clone https://github.com/djsb/muzzley-BelkinWeMo.git</code></pre>
 
 ### Usage
 
