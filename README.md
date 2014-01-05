@@ -68,3 +68,6 @@ Thank you to:
   - wemoNode framework - https://npmjs.org/~bgpaglia
 
 This demo is general purpose. Check http://www.muzzley.com for further reference.
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/djsb/muzzley-belkinwemo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
